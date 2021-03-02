@@ -9,8 +9,8 @@ eureka:
 zuul:
    routes:
       # 用户路由
-      sq-user: /user/**
+      sn-user: /user/**
       # 音乐路由
-      sq-music: /goods/**
+      sn-goods: /goods/**
       # 门户作为默认的路由地址==>放置在所有路由配置的下面
-      sq-index: /**
+      sn-index: /**
