@@ -36,4 +36,4 @@ mail:
       addr: 1021634295@qq.com
 logging:
    level:
-      com.yc.sn: debug
+      com.yc: debug
